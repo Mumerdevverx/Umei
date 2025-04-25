@@ -39,10 +39,10 @@ export default function Dishwasher() {
             </a>
             <button
            
-              onClick={() => navigate("/Page")}
+              onClick={() => navigate("/Card")}
               className="p-2 rounded-3xl bg-black text-white inline-block"
             >
-              #AddView
+              #Card
             </button>
           </div>
         </div>
